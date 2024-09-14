@@ -38,6 +38,7 @@ private extension ViewController {
             view.addSubview(subView)
         }
     }
+    
     func setupLabel() {
         labelText.text = "I am Poor"
         labelText.textColor = .white
